@@ -1,4 +1,4 @@
-# `reverse_shell_gen.py` – PHP Reverse Shell Generator
+# PHP Reverse Shell Generator
 
 > **For authorized security testing and educational use only.**  
 > Always obtain explicit written permission before deploying reverse shells on any system.
