@@ -164,7 +164,13 @@ You can enhance this script by:
 - Adding AV evasion techniques (for red team use within legal boundaries)
 
 ---
+## 🧑‍💻 Author
 
+**Oussama Ben Hadj Dahman @cybereagle2001**  
+*Junior Information Security Consultant @ TALAN*  
+🔐 ISO 27001 | eJPT | CDFE | CPT | CC  
+
+---
 ## 📜 License
 
 This script is provided **as-is** with no warranty. Use responsibly and ethically.
