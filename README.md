@@ -9,6 +9,8 @@
 
 `reverse_shell_gen.py` is a lightweight, command-line Python tool designed to **generate customizable PHP reverse shell payloads**, optionally **obfuscate** them, save them with **multiple file extensions**, and **automatically launch a Netcat listener**. It is particularly useful in penetration testing, red team engagements, and Capture-The-Flag (CTF) challenges where PHP-based web shells are needed.
 
+<img width="1851" height="297" alt="image" src="https://github.com/user-attachments/assets/06f38481-1d19-461b-ba64-366459577ab8" />
+
 ---
 
 ## 🛠️ Features
@@ -21,6 +23,8 @@
   - `base64`: Encoded payload executed via `eval(base64_decode(...))`.
 - **Auto listener**: Launches `nc -nvlp <port>` after payload generation.
 - **Modular design**: Easy to extend with new obfuscation or payload types.
+
+<img width="1919" height="104" alt="image" src="https://github.com/user-attachments/assets/68857b6e-57e1-4a6d-bdfe-5ef213023ad0" />
 
 ---
 
